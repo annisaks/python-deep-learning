@@ -10,3 +10,7 @@
     - The art of transfer learning
 4. Convolutional Neural Networks (CNNs)
 5. Debugging your Deep Learning Models
+6. Sequence Models
+   - Recurrent Neural Networks (RNNs), 
+   - Long Short Term Memory (LSTMs)
+   - Gated Recurrent Unit (GRU)
