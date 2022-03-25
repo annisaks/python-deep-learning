@@ -17,3 +17,4 @@
 7. Deep Learning for NLP
    - Word embeddings
    - Attention models
+   - Frameworks (OpenAI’s GPT-2, Google’s BERT)
