@@ -14,3 +14,7 @@
    - Recurrent Neural Networks (RNNs), 
    - Long Short Term Memory (LSTMs)
    - Gated Recurrent Unit (GRU)
+7. Deep Learning for NLP
+   - Word embeddings
+   - Attention models
+   - Frameworks (OpenAI’s GPT-2, Google’s BERT)
