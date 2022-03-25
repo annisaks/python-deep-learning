@@ -14,3 +14,6 @@
    - Recurrent Neural Networks (RNNs), 
    - Long Short Term Memory (LSTMs)
    - Gated Recurrent Unit (GRU)
+7. Deep Learning for NLP
+   - NLP basic concept
+   - NLP Frameworks (Pytorch, Google’s BERT)
