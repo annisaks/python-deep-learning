@@ -1,3 +1,4 @@
 Project list
 - Detecting Pneumia from Chest X-rays
 - Predict the onset of Diabetes based on diagnostic measures.
+- Fruits Identification System using CNN Models
